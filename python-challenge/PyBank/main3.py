@@ -1,3 +1,5 @@
+#This file was used to practice various methods to aggregate CSV data to list, dictionairies, etc...
+
 import csv
 
 with open('budget_data_1.csv', mode = 'r') as infile:
