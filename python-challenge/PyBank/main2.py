@@ -1,3 +1,4 @@
+#This file was used to practice various methods to aggregate CSV data to list, dictionairies, etc...
 import csv
 
 # open the file in universal line ending mode 
